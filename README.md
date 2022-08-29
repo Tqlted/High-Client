@@ -6,7 +6,7 @@ Discord: https://discord.gg/JCPyFTaQ5k
 <br>
 YouTube: https://www.youtube.com/channel/UCCQhN-97srxS5mCWlAnRsdw
 <hr>
-# <a name="team-members"></a>Team Members
+# Team Members
 
 * Tqlted (Main Developer)
 * Henna_HD (Cosmetic Designer)
