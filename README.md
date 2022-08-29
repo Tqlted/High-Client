@@ -6,6 +6,7 @@ Discord: https://discord.gg/JCPyFTaQ5k
 <br>
 YouTube: https://www.youtube.com/channel/UCCQhN-97srxS5mCWlAnRsdw
 <hr>
+
 # Team Members
 
 * Tqlted (Main Developer)
