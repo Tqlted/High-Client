@@ -1,5 +1,5 @@
 # High-Client
-<1>My own Minecraft 1.8.8 PvP Client.</1>
+My own Minecraft 1.8.8 PvP Client.
 #
 Discord: https://discord.gg/JCPyFTaQ5k
 <br>
